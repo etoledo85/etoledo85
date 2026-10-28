@@ -1,6 +1,6 @@
-# Erick Toledo
+# Senior Systems & Infrastructure Administrator
 
-Senior Systems & Infrastructure Administrator. 15+ years in enterprise IT, based in Saltillo, Mexico.
+15+ years in enterprise IT, based in Saltillo, Mexico.
 
 I work remote first. I am open to hybrid in Monterrey.
 
