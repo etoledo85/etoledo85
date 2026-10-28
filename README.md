@@ -1,16 +1,23 @@
-## Hi there 👋
+# Erick Toledo
 
-<!--
-**etoledo85/etoledo85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Systems & Infrastructure Administrator. 15+ years in enterprise IT, based in Saltillo, Mexico.
 
-Here are some ideas to get you started:
+I work remote first. I am open to hybrid in Monterrey.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+
+- Windows Server, Active Directory, Group Policy, DNS, DHCP
+- VMware vSphere, ESXi and vCenter. Also Hyper-V.
+- PowerShell automation and diagnostics
+- Monitoring with Splunk, Dynatrace and Nagios
+- Patching, OS hardening, runbooks and ITIL processes
+
+## Projects
+
+- [Remote-Service-Manager](https://github.com/etoledo85/Remote-Service-Manager): PowerShell script to manage Windows services across many servers with PSSessions.
+- [Windows-Cleanup-Toolkit](https://github.com/etoledo85/Windows-Cleanup-Toolkit): PowerShell script to analyze and clean temp files, logs and dumps on Windows systems.
+- [job-tracker-docker](https://github.com/etoledo85/job-tracker-docker): Job search aggregator in Docker. Python, Playwright, Streamlit and SQLite.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/etoledo85/)
